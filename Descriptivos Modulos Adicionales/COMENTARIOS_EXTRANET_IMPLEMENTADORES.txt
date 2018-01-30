@@ -1,0 +1,23 @@
+EXTRANET CLIENTES NUEVOS
+
+url para mostrar la extranet solver:   
+http://mantenimientocliente.svrweb4.com.ar/login.aspx  usuario: svr000   clave: svr000
+
+Cuando se instala, se configura la generacion PDF a prueba (sin compromiso) por 30 dias, 
+pasado el plazo se deshabilita automaticamente, si estan interesados, les pasamos costo del modulo y mensual.
+
+
+Si el cliente tiene pagina web, se le pasa un fragmento de codigo (con el bloque donde se pide usuario y clave) 
+al diseñador del sitio web para que reemplace / agregue ese codigo en la web existente.
+Se toman logos y colores existentes para que la extranet tenga un aspecto similar a la web.
+
+Si el cliente no tiene pagina web: tendrian que registrar un nombre en nic.ar  (ahora tiene un costo aproximado de $160 anual y 
+el tramite lo tienen que hacer ellos  (quizas los podemos guiar, pero lo tienen que hacer ellos porque despues se tienen que hacer
+cargo de renovarlo y para no generar conflictos innecesarios))
+Nosotros le podriamos armar una pagina con una imagen de fondo y el bloque que pide usuario y clave (alojamos esa pagina en nuestro
+servidor. No le podemos diseñar nada mas)
+
+
+
+
+
